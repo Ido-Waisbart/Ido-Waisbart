@@ -4,8 +4,8 @@
 
 <br />
 <p align="center">
-  <img title="Ido Waisbart" alt="Ido Waisbart" src="https://github.com/wido2000/wido2000/blob/main/Press%20Images/Selfie.jpg" height="250" hspace="50" />
-  <img title="Blawnode" alt="Blawnode" src="https://github.com/wido2000/wido2000/blob/main/Press%20Images/Blawnode%20Logo%20(MAX).png" height="250" hspace="50" />
+  <img title="Ido Waisbart" alt="Ido Waisbart" src="https://github.com/Ido-Waisbart/Ido-Waisbart/blob/main/Press%20Images/Selfie.jpg" height="250" hspace="50" />
+  <img title="Blawnode" alt="Blawnode" src="https://github.com/Ido-Waisbart/Ido-Waisbart/blob/main/Press%20Images/Blawnode%20Logo%20(MAX).png" height="250" hspace="50" />
 </p>
 
 <br />
@@ -16,13 +16,13 @@ Hi, I’m Ido Waisbart. I'm a Computer Science B.Sc. student at the Open Univers
 
 #
 ### Notable current projects
-<p align="center"><img alt="Triple Triangle" src="https://github.com/wido2000/wido2000/blob/main/Press%20Images/Triple%20Triangle%20-%20630x500%20Itch%20Logo.png" height="200"></p>
+<p align="center"><img alt="Triple Triangle" src="https://github.com/Ido-Waisbart/Ido-Waisbart/blob/main/Press%20Images/Triple%20Triangle%20-%20630x500%20Itch%20Logo.png" height="200"></p>
 
 - [Triple Triangle](https://blawnode.itch.io/threeangle) (For the in-development password, contact me.) - I am close to finishing a simple, yet polished, mobile game, made with Unity.
 
 <br />
 
-<p align="center"><img alt="Adrift" src="https://github.com/wido2000/wido2000/blob/main/Press%20Images/Adrift%20-%20630x500%20Itch%20Logo.png" height="200"></p>
+<p align="center"><img alt="Adrift" src="https://github.com/Ido-Waisbart/Ido-Waisbart/blob/main/Press%20Images/Adrift%20-%20630x500%20Itch%20Logo.png" height="200"></p>
 
 - [Adrift](https://blawnode.itch.io/adrift) - I am managing a group of 6 teammates (including myself), which makes a game in a limitted amount of time.
 
