@@ -27,6 +27,7 @@ Hi, I’m Ido Waisbart. I'm a 21 years old Computer Science B.Sc. student at the
 #
 ### Notable past/finished projects
 - [A maze generator and Genetic Algorithm solver in Python, made using the Pillow and tkinter modules.][ga-maze-link] - Generates, saves, loads and solves custom-made mazes.
+<!-- TODO: Screenshots! -->
 
 - Several game jams. In each, I fulfilled a different role: Unity/Godot Programmer, pixel artist/animator, chiptune musician, or sometimes all of them.
 
