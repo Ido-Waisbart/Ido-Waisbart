@@ -26,8 +26,10 @@ Hi, I’m Ido Waisbart. I'm a 21 years old Computer Science B.Sc. student at the
 
 #
 ### Notable past/finished projects
-- [A maze generator and Genetic Algorithm solver in Python, made using the Pillow and tkinter modules.][ga-maze-link] - Generates, saves, loads and solves custom-made mazes.
+- [A maze generator and Genetic Algorithm solver in Python.][ga-maze-link] - Generates, saves, loads and solves custom-made mazes. Made using the Pillow and tikinter modules.
 <!-- TODO: Screenshots! -->
+
+- [Encrypto/En-crypts][encrypto-link] - A library for text encrypting, made in C#, as my final project for my high-school's Computer Science class. Employs Caesar, Vigenere, RSA and AES.
 
 - Several game jams. In each, I fulfilled a different role: Unity/Godot Programmer, pixel artist/animator, chiptune musician, or sometimes all of them.
 
@@ -52,6 +54,8 @@ Hi, I’m Ido Waisbart. I'm a 21 years old Computer Science B.Sc. student at the
 #
 ### Education
 - I’m currently studying for a **computer science** B.Sc. at the Open University.
+- I studied at Makif C of Ashdod, at its "gifted class", and specialized in Computer Sciences and Physics.
+- I studied at the national cyber program, Magshimim.
 - I love the programming languages C# and Python, and also occassionally use many more, like C++, and HTML/JS. (see LinkedIn).
 
 ![][csharp-badge]
@@ -95,9 +99,10 @@ For game development, I like using the game engine _Unity_.
 
 <!-- Link anchors -->
 
-[ga-maze-link]: https://github.com/Ido-Waisbart/Genetic-Maze-Solver
 [cackler-img]: https://user-images.githubusercontent.com/37482595/168480246-e5c44d16-e87b-49e7-bef8-781c9b0ac770.png
 [cackler-link]: https://github.com/blawnode/EverhoodCackler
+[encrypto-link]: https://github.com/Ido-Waisbart/Encrypto
+[ga-maze-link]: https://github.com/Ido-Waisbart/Genetic-Maze-Solver
 
 <!-- Badges -->
 [csharp-badge]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
