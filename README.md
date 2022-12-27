@@ -14,9 +14,18 @@ Hi, I’m Ido Waisbart. I'm a 22 years old Computer Science B.Sc. student at the
 
 #
 ### Notable current projects
+<p align="center"><img alt="idow_xyz" src="[https://github.com/Ido-Waisbart/Ido-Waisbart/blob/main/Press%20Images/Triple%20Triangle%20-%20630x500%20Itch%20Logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)" height="200"></p>
+
+- [idow.xyz/Portfolio Website](https://blawnode.itch.io/threeangle) - A React.js project, including usage of: AWS Amplify hosting, Sass, PostgreSQL database connection, Bootstrap, responsiveness, and more.
+Made as both a large React.js exercise, and a website for my services and projects.
+
+<br />
+
 <p align="center"><img alt="Triple Triangle" src="https://github.com/Ido-Waisbart/Ido-Waisbart/blob/main/Press%20Images/Triple%20Triangle%20-%20630x500%20Itch%20Logo.png" height="200"></p>
 
-- [Triple Triangle](https://blawnode.itch.io/threeangle) (For the in-development password, contact me.) - I am close to finishing a simple, yet polished, mobile game, made with Unity.
+- [Triple Triangle](https://blawnode.itch.io/threeangle) - A simple - yet polished - mobile 2D game, made alone in Unity for over a year.
+Includes systematic manager scripts, a shop screen and basic ads.
+Being limited to not make art nor music for the game, I focused my powers on the code.
 
 <br />
 
