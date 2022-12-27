@@ -14,7 +14,7 @@ Hi, I’m Ido Waisbart. I'm a 22 years old Computer Science B.Sc. student at the
 
 #
 ### Notable current projects
-<p align="center"><img alt="idow_xyz" src="[https://github.com/Ido-Waisbart/Ido-Waisbart/blob/main/Press%20Images/Triple%20Triangle%20-%20630x500%20Itch%20Logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)" height="200"></p>
+<p align="center"><img alt="idow_xyz" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="200"></p>
 
 - [idow.xyz/Portfolio Website](https://blawnode.itch.io/threeangle) - A React.js project, including usage of: AWS Amplify hosting, Sass, PostgreSQL database connection, Bootstrap, responsiveness, and more.
 Made as both a large React.js exercise, and a website for my services and projects.
