@@ -14,9 +14,9 @@ Hi, I’m Ido Waisbart. I'm a 22 years old Computer Science B.Sc. student at the
 
 #
 ### Notable current projects
-<p align="center"><img alt="idow_xyz" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="200"></p>
+<p align="center"><a href="www.idow.xyz"><img alt="idow_xyz" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="200"></a></p>
 
-- [idow.xyz/Portfolio Website](https://blawnode.itch.io/threeangle) - A React.js project, including usage of: AWS Amplify hosting, Sass, PostgreSQL database connection, Bootstrap, responsiveness, and more.
+- [idow.xyz/Portfolio Website](https://www.idow.xyz) - A React.js project, including usage of: AWS Amplify hosting, Sass, PostgreSQL database connection, Bootstrap, responsiveness, and more.
 Made as both a large React.js exercise, and a website for my services and projects.
 
 <br />
