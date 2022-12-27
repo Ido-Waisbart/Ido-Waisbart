@@ -8,7 +8,7 @@
 
 <br />
 
-Hi, I’m Ido Waisbart. I'm a 21 years old Computer Science B.Sc. student at the Open University, and I used to be a learning game developer (now on a long hiatus).
+Hi, I’m Ido Waisbart. I'm a 22 years old Computer Science B.Sc. student at the Open University, and I used to be a learning game developer (now on a long hiatus).
 
 [![][linkedin-badge]](https://www.linkedin.com/in/ido-waisbart/)
 
