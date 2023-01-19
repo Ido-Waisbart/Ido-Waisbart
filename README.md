@@ -3,7 +3,6 @@
 <br />
 <p align="center">
   <img title="Ido Waisbart" alt="Ido Waisbart" src="https://github.com/Ido-Waisbart/Ido-Waisbart/blob/main/Press%20Images/Selfie.jpg" height="250" hspace="50" />
-  <img title="Blawnode" alt="Blawnode" src="https://github.com/Ido-Waisbart/Ido-Waisbart/blob/main/Press%20Images/Blawnode%20Logo%20(MAX).png" height="250" hspace="50" />
 </p>
 
 <br />
@@ -21,6 +20,13 @@ Made as both a large React.js exercise, and a website for my services and projec
 
 <br />
 
+<p align="center"><a href="https://blawnode.itch.io/adrift"><img alt="Adrift" src="https://github.com/Ido-Waisbart/Ido-Waisbart/blob/main/Press%20Images/Adrift%20-%20630x500%20Itch%20Logo.png" height="200"></a></p>
+
+- [Adrift](https://blawnode.itch.io/adrift) - Since May 2022, I have been managing a group of 6 teammates (including myself. Now, we're 3.), to work on our personal jam game, which was made in a limited amount of time. The continuation has started in about the middle of July 2022, and is still ongoing, if slowly.
+
+#
+### Notable past/finished projects
+
 <p align="center"><a href="https://blawnode.itch.io/threeangle"><img alt="Triple Triangle" src="https://github.com/Ido-Waisbart/Ido-Waisbart/blob/main/Press%20Images/Triple%20Triangle%20-%20630x500%20Itch%20Logo.png" height="200"></a></p>
 
 - [Triple Triangle](https://blawnode.itch.io/threeangle) - A simple - yet polished - mobile 2D game, made alone in Unity for over a year.
@@ -29,12 +35,6 @@ Being limited to not make art nor music for the game, I focused my powers on the
 
 <br />
 
-<p align="center"><a href="https://blawnode.itch.io/adrift"><img alt="Adrift" src="https://github.com/Ido-Waisbart/Ido-Waisbart/blob/main/Press%20Images/Adrift%20-%20630x500%20Itch%20Logo.png" height="200"></a></p>
-
-- [Adrift](https://blawnode.itch.io/adrift) - I will continue managing a group of 6 teammates (including myself), to work on our personal jam game, which was in a limitted amount of time. The continuation will hopefully happen in about the middle of July, 2022.
-
-#
-### Notable past/finished projects
 - [A maze generator and Genetic Algorithm solver in Python.][ga-maze-link] - Generates, saves, loads and solves custom-made mazes. Made using the Pillow and tikinter modules.
 <!-- TODO: Screenshots! -->
 
@@ -65,19 +65,20 @@ Being limited to not make art nor music for the game, I focused my powers on the
 - I’m currently studying for a **computer science** B.Sc. at the Open University.
 - I studied at Makif C of Ashdod, at its "gifted class", and specialized in Computer Sciences and Physics.
 - I studied at the national cyber program, Magshimim.
-- I love the programming languages C# and Python, and also occassionally use many more, like C++, and HTML/JS. (see LinkedIn).
+- I love the programming languages C#, Js/React.js and Python, and also occassionally use others, like C++ and C. (see LinkedIn).
 
 ![][csharp-badge]
+![][reactjs-badge]
 ![][python-badge]
 
 #
 ### Looking for
-- I’m looking to work in the area of either .NET software development, web devlopment or general Python programming. 
-- One far day, I'd like to make video games in groups.
+- I’m looking to work in the area of either web development, .NET software/game development or general Python/C++ programming. 
+- One far day, I'd like to make video games in teams.
 
 #
 ### My creative game-development GitHub account
-[View "Blawnode"](https://github.com/blawnode/) - I shared my games, music and art there. Mostly games made in game jams.
+[View "BN"](https://github.com/blawnode/) - I shared my games, music and art there. Mostly games made in game jams.
 
 #
 ### Software I like
@@ -93,6 +94,10 @@ For planning and organization, I like using _Trello_ and _Outlook_.
 
 ![][trello-badge]
 ![][outlook-badge]
+
+For web development, I like using the IDE Webstorm.
+
+![][webstorm-badge]
 
 For game development, I like using the game engine _Unity_.
 
@@ -122,6 +127,8 @@ For game development, I like using the game engine _Unity_.
 [outlook-badge]: https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 [pycharm-badge]: https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white
 [python-badge]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[reactjs-badge]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 [trello-badge]: https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white
 [unity-badge]: https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white
 [visual-studio-badge]: https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
+[webstorm-badge]: https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black
